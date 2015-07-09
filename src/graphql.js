@@ -59,6 +59,7 @@ export function graphql(
  * `data` is the result of a successful execution of the query.
  * `errors` is included when any errors occurred as a non-empty array.
  */
+ //PETE - /GraphQLResult.cs
 type GraphQLResult = {
   data?: ?Object;
   errors?: Array<GraphQLFormattedError>;

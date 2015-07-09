@@ -14,6 +14,7 @@
  * source files; for example, if the GraphQL input is in a file Foo.graphql,
  * it might be useful for name to be "Foo.graphql".
  */
+ //PETE - /Langauge/Source.cs
 export class Source {
   body: string;
   name: string;

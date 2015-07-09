@@ -57,6 +57,7 @@ export function locatedError(error: any, nodes: Array<any>): GraphQLError {
   );
 }
 
+//PETE - /Error/GrpahQLFormattedError.cs
 export type GraphQLFormattedError = {
   message: string,
   locations?: Array<{

@@ -8,6 +8,8 @@
  *  of patent rights can be found in the PATENTS file in the same directory.
  */
 
+//PETE - This lot is all stored in /Language/Source.cs made no sense having it in a Location file
+
 import type { Source } from './source';
 
 /**
